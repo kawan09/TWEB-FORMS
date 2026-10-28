@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>Inscrição nos jifs</h1>
-        Preencha os campos abaixo com suas informações.
+        Preencha os campos abaixo com seus dados.
     </header>
     <main>
         <form 

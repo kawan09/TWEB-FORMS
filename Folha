@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Folha</title>
+</head>
+<body>
+  <header>
+     <form>
+        <fieldset>
+            <legend>
+                Guia de requerimento
+            </legend>
+            <label for="REQUERENTE">Requerente</label>
+            <input type="text" id="REQUERENTE" name="nome" required>
+            <label for="MATRICULA">Matricula</label>
+            <input type="text" id="REQUERENTE" name="MATRICULA" required><br><br>
+
+             <legend>
+                PREENCHER
+                  
+            </legend>
+
+
+
+              <label for="MATRICULA">Naturalidade</label>
+            <input type="text" id="REQUERENTE" name="MATRICULA" required>
+              <label for="MATRICULA">Data de nascimento</label>
+            <input type="text" id="DATA" name="Data" required>
+
+            
+
+            
+        </fieldset>
+    
+   </form>
+  </header>
+    
+</body>
+</html>

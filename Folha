@@ -20,17 +20,61 @@
              <legend>
                 PREENCHER
                   
-            </legend>
+            </legend> <br>
 
 
 
-              <label for="MATRICULA">Naturalidade</label>
-            <input type="text" id="REQUERENTE" name="MATRICULA" required>
+              <label for="NATURALIDADE">Naturalidade</label>
+            <input type="text" id="NATURALIDADE" name="MATRICULA" required>
               <label for="MATRICULA">Data de nascimento</label>
-            <input type="text" id="DATA" name="Data" required>
-
+            <input type="text" id="DATA" name="Data" required><br><br>
             
+            
+             <label for="FILIACAO">Filiação</label> 
+            <input type="text" id="FILIACAO">
+             <label for="CURSO">Curso</label> 
+            <input type="text" id="CURSO">
+ 
+            <label for="PERIODO">Periodo</label> 
+            <input type="text" id="PERIODO">
 
+            <label for="TURNO">Turno</label> 
+             <input type="text" id="TURNO"><br><br>
+
+            <label for="TELEFONE">Telefone</label> 
+             <input type="text" id="TELEFONE">
+            <label for="EMAIL">E-mail</label> 
+            <input type="email" id="EMAIL"><br><br>
+
+            <input type="checkbox"> 2° Via<br> 
+            <input type="checkbox"> Aproveitamento de Disciplina<br>
+            <input type="checkbox"> Matricula fora do prazo<br> 
+              <input type="checkbox"> Cancelamento da Matricula<br>
+            <input type="checkbox"> Colação de Grau<br>  
+            <input type="checkbox"> Declaração<br>
+            <input type="checkbox"> Diploma<br> 
+            <input type="checkbox"> Histórico Escolar<br>
+            <input type="checkbox"> Reabertura de Matricula<br>
+             <input type="checkbox"> Segunda Chamada<br>
+             <input type="checkbox"> Trancamento de Disciplina<br> 
+             <input type="checkbox"> Transferência para outra Instituição<br> 
+             <input type="checkbox"> Validação de Conhecimento<br>
+            <input type="checkbox"> Reajuste<br> 
+            <input type="checkbox"> Recorreção de Prova<br>
+            <input type="checkbox"> Auxílio Transporte<br> 
+             <input type="checkbox"> Auxílio Moradia<br>
+                <input type="checkbox"> Auxílio Óculos<br> 
+                <input type="checkbox"> Auxílio Pais e Mães<br> 
+             <input type="checkbox"> Outros<br><br>
+
+             
+              <label>Justificar:</label> <br>
+
+              <label>Requerente:</label> <input type="text">
+
+              <label>Funcionário:</label> <input type="text"><br><br>
+
+                  <input type="submit" value="Enviar">
             
         </fieldset>
     
